@@ -1,0 +1,23 @@
+Interfejs LoggerInterface {
+    metoda logMessage(message: String);
+}
+
+Klasa IstniejacySystem {
+    metoda log(message: String);
+}
+
+Klasa NowaBibliotekaRejestrowania {
+    metoda logMessage(message: String);
+}
+
+Klasa LogAdapter {
+    prywatne pole istniejacySystem: IstniejacySystem;
+
+    konstruktor(istniejacySystem: IstniejacySystem) {
+        this.istniejacySystem = istniejacySystem;
+    }
+
+    metoda logMessage(message: String) {
+        this.istniejacySystem.log(message);
+    }
+}
