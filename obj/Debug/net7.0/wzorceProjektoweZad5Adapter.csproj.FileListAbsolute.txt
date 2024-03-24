@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\bin\Debug\net7.0\wzorceProjektoweZad5Adapter.exe
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\bin\Debug\net7.0\wzorceProjektoweZad5Adapter.deps.json
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\bin\Debug\net7.0\wzorceProjektoweZad5Adapter.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\bin\Debug\net7.0\wzorceProjektoweZad5Adapter.dll
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\bin\Debug\net7.0\wzorceProjektoweZad5Adapter.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.dll
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\refint\wzorceProjektoweZad5Adapter.dll
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\wzorceProjektoweZad5Adapter.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\zad5Wzorce\wzorceProjektoweZad5Adapter\obj\Debug\net7.0\ref\wzorceProjektoweZad5Adapter.dll
