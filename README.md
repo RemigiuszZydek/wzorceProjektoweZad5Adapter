@@ -1,0 +1,1 @@
+# wzorceProjektoweZad5Adapter
